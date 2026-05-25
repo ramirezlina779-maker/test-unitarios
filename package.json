@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-tests",
+  "version": "1.0.0",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
